@@ -20,7 +20,7 @@ This website template is a HTML and CSS based portfolio website template, and th
 
 This is the website preview, if you want to see the site click the link bellow.
 
-https://phillip-yeon.github.io/team-website-template./
+ https://phillip-yeon.github.io/Personal-portfolio-website-by-Phillilp-Yeon./
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
